@@ -6,6 +6,9 @@
 Welcome to sphinx-issue-9575's documentation!
 =============================================
 
+.. autoclass:: sample_package.Square
+   :members:
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
